@@ -6,6 +6,9 @@
 - we create a js file, to instantiate the table object
 ![image](https://user-images.githubusercontent.com/101847989/215575051-963d9a07-ba1e-4555-a491-a4eccd6143c6.png)
 
+- Records: <br>
+![image](https://user-images.githubusercontent.com/101847989/215580471-82f01bab-1d85-4ece-9c60-18e6bb5cb25f.png)
+
 - Result: <br>
 ![image](https://user-images.githubusercontent.com/101847989/215564647-b515206a-4bc9-4262-9199-93a38c3e0245.png)
 
